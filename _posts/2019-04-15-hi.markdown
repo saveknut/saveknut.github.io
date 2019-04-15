@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Hi!"
+date:   2019-04-15 21:22:11 +0100
+categories: new blog
+---
+Currently at a moment where it might make sense to start a new personal blog. I'll *try* to make something out of this.
